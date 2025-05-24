@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Asersware0
-- 👀 I’m interested in code
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me Discord: Asersware#5876
+- 🌱 I’m currently learning JAVA 
